@@ -1,0 +1,16 @@
+project_id = "gtytsakxcjlhzlxwdvmp"
+
+[functions.admin-application-decision]
+verify_jwt = false
+
+[functions.schedule-inspection]
+verify_jwt = false
+
+[functions.complete-inspection]
+verify_jwt = false
+
+[functions.delete-user]
+verify_jwt = false
+
+[functions.delete-own-account]
+verify_jwt = false
